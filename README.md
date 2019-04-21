@@ -12,7 +12,7 @@
 
 <hr/>
 
-### *Android
+### Android
 - [x] 모든 프로젝트 Architecture 는 MVVM으로
 
     <https://github.com/chl8263/TDD-MVVM>
@@ -29,9 +29,33 @@
 
 - [ ] Coroutine
 
+- [ ] Firebase 총 정리 Demo App
+
 - [x] CleanArchitecture
 
     <https://github.com/chl8263/Android_CleanArchitecture>
-    
+
 - [ ] 모든것을 활용한 앱 공모전
 
+<hr/>
+
+### Back-And
+- [ ] Spring
+- [ ] Ktor
+- [ ] Rest
+- [ ] GraphQL
+
+<hr/>
+
+### Front-end
+- [ ] ES6 input Validation Module 제작 (Rxjs 이용)
+
+<hr/>
+
+### Dev-ops
+<hr/>
+
+### Network
+<hr/>
+
+### ETC
