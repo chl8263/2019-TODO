@@ -10,7 +10,9 @@
 * Network
 * ETC
 
-### Android
+<hr/>
+
+### *Android
 - [ ] 모든 프로젝트 Architecture 는 MVVM으로
 - [x] LiveData
 - [ ] Rective Programming
