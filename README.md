@@ -69,3 +69,4 @@
 ### ETC
 - [ ] Xunit 제작 가이드
 - [ ] UnitTest...
+- [ ] CodeGenerater
