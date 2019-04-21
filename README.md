@@ -53,9 +53,18 @@
 <hr/>
 
 ### Dev-ops
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] AWS
+
 <hr/>
 
 ### Network
+- [ ] netty (가능한 kotlin으로 - 생산성 향상에 염두하면서)
+
+- [ ] 이 모든것을 활용한 Web&App 스트리밍 서비스 프로젝트
 <hr/>
 
 ### ETC
+- [ ] Xunit 제작 가이드
+- [ ] UnitTest...
