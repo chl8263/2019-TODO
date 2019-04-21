@@ -13,14 +13,25 @@
 <hr/>
 
 ### *Android
-- [ ] 모든 프로젝트 Architecture 는 MVVM으로
+- [x] 모든 프로젝트 Architecture 는 MVVM으로
 
     <https://github.com/chl8263/TDD-MVVM>
+
 - [x] LiveData
 
+    <https://github.com/chl8263/MVVM_LiveData>
+
 - [ ] Rective Programming
-- [ ] DI
+
+- [x] DI
+
+    <https://github.com/chl8263/MVVM_LiveData>
+
 - [ ] Coroutine
-- [ ] CleanArchitecture
+
+- [x] CleanArchitecture
+
+    <https://github.com/chl8263/Android_CleanArchitecture>
+    
 - [ ] 모든것을 활용한 앱 공모전
 
