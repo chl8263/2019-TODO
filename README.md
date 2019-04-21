@@ -41,6 +41,7 @@
 
 ### Back-And
 - [ ] Spring
+    > 해외인턴 가기전까지 최대한 많이 배워놓자..
 - [ ] Ktor
 - [ ] Rest
 - [ ] GraphQL
