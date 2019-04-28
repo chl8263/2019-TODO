@@ -29,7 +29,9 @@
 
 - [ ] Coroutine
 
-- [ ] Firebase 총 정리 Demo App
+- [x] Firebase 총 정리 Demo App
+
+    <https://github.com/chl8263/GyunStagram>
 
 - [x] CleanArchitecture
 
@@ -69,4 +71,6 @@
 ### ETC
 - [ ] Xunit 제작 가이드
 - [ ] UnitTest...
-- [ ] CodeGenerater
+- [x] CodeGenerater
+    
+   <https://github.com/chl8263/CodeGenerater>
