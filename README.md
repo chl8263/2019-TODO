@@ -37,7 +37,7 @@
 
     <https://github.com/chl8263/Android_CleanArchitecture>
 
-- [ ] 모든것을 활용한 앱 공모전
+- [ ] 앱 공모전
 
 <hr/>
 
@@ -51,6 +51,7 @@
 <hr/>
 
 ### Front-end
+- [ ] vue.js example
 - [ ] ES6 input Validation Module 제작 (Rxjs 이용)
 
 <hr/>
@@ -65,10 +66,11 @@
 ### Network
 - [ ] netty (가능한 kotlin으로 - 생산성 향상에 염두하면서)
 
-- [ ] 이 모든것을 활용한 Web&App 스트리밍 서비스 프로젝트
+
 <hr/>
 
 ### ETC
+- [ ] Web&App 스트리밍 서비스 프로젝트 - Android, Spring & netty, vue.js
 - [ ] Xunit 제작 가이드
 - [ ] UnitTest...
 - [x] CodeGenerater
