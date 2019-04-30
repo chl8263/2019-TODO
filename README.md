@@ -12,6 +12,8 @@
 
 <hr/>
 
+# 모든 프로젝트 설계는 DDD를 최대한 
+
 ### Android
 - [x] 모든 프로젝트 Architecture 는 MVVM으로
 
