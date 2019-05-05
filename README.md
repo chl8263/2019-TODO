@@ -44,7 +44,7 @@
 ### Back-And
 - [ ] Spring
     * 해외인턴 가기전까지 최대한 많이 배워놓자.. 깊이 들어갈 수록 너무 어렵다(2019.04.22)
-- [ ] Ktor
+- [ ] gitblit project (git server)
 - [ ] Rest
 - [ ] GraphQL
 
