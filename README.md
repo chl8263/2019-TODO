@@ -62,6 +62,7 @@
 - [ ] Docker
 - [ ] Kubernetes
 - [ ] AWS
+- [ ] jenkins
 
 <hr/>
 
