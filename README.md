@@ -72,7 +72,7 @@
 <hr/>
 
 ### ETC
-- [ ] Web&App 스트리밍 서비스 프로젝트 - Android, Spring & netty, vue.js
+- [ ] Web&App 스트리밍 서비스 프로젝트 (discord clone) - Android, Spring & netty, vue.js
 - [ ] Xunit 제작 가이드
 - [x] CodeGenerater
     
