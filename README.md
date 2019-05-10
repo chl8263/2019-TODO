@@ -54,7 +54,7 @@
 
 ### Front-end
 - [ ] vue.js example
-- [ ] ES6 input Validation Module 제작 (Rxjs 이용)
+- [ ] ES6 input Validation Module 제작  (Rxjs 이용)
 
 <hr/>
 
