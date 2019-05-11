@@ -25,7 +25,7 @@
 
     <https://github.com/chl8263/GyunStagram>
 
-- [x] DI
+- [x] DI - koin
 
     <https://github.com/chl8263/MVVM_LiveData>
 
