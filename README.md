@@ -46,7 +46,7 @@
 ### Back-And
 - [ ] Spring
     * 해외인턴 가기전까지 최대한 많이 배워놓자.. 깊이 들어갈 수록 너무 어렵다(2019.04.22)
-- [ ] gitblit project (git server)
+- [ ] gitblit project (git server) - svn 서버를 대체하는 server(aws Test)
 - [ ] Rest
 - [ ] GraphQL
 
