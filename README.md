@@ -31,7 +31,7 @@
 
 - [ ] Coroutine
 
-- [x] Firebase 총 정리 및 koin, mvmm , core base mini project Demo App
+- [x] Firebase 총 정리 및 koin, mvmm , core base mini project Demo App - instagram clone
 
     <https://github.com/chl8263/GyunStagram>
 
