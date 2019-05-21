@@ -39,7 +39,7 @@
 
     <https://github.com/chl8263/Android_CleanArchitecture>
 
-- [ ] 앱 공모전
+- [x] 앱 공모전
 
 <hr/>
 
