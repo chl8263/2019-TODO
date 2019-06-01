@@ -13,7 +13,7 @@
 <hr/>
 
 ### Android
-- [x] 모든 프로젝트 Architecture 는 MVVM으로 - DDD적인 설계를 바탕으로 
+- [x] 모든 프로젝트 Architecture 는 MVVM - DDD적인 설계를 바탕으로 
 
     <https://github.com/chl8263/TDD-MVVM>
 
