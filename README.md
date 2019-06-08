@@ -14,7 +14,7 @@
 <hr/>
 
 ### Android
-- [x] 모든 프로젝트 Architecture 는 MVVM - DDD적인 설계를 바탕으로 
+- [x] 모든 프로젝트 Architecture 는 MVVM - about DDD architecture
 
     <https://github.com/chl8263/TDD-MVVM>
 
@@ -45,9 +45,7 @@
 
 <hr/>
 
-### Back-And
-- [ ] Spring
-    * 해외인턴 가기전까지 최대한 많이 배워놓자.. 깊이 들어갈 수록 너무 어렵다(2019.04.22)
+### Back-And    
 - [ ] gitblit project (git server) - svn 서버를 대체하는 server(aws Test)
 - [ ] Rest
 - [ ] GraphQL
