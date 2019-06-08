@@ -8,7 +8,7 @@
 * front-And
 * Dev-ops
 * Network
-* OverRoll Project
+* Web&App 스트리밍 서비스 프로젝트 (discord clone)
 * ETC
 
 <hr/>
@@ -56,7 +56,7 @@
 
 ### Front-end
 - [ ] vue.js example
-- [ ] ES6 input Validation Module 제작  (Rxjs 이용)
+- [ ] ES6 input Validation Module 제작  (using Rxjs)
 
 <hr/>
 
@@ -74,8 +74,17 @@
 
 <hr/>
 
+### Web&App 스트리밍 서비스 프로젝트 (discord clone)
+---------- client ------------
+- [ ] Android
+- [ ] Web Front End
+---------- server ------------
+- [ ] Admin
+- [ ] Service
+
+
+<hr/>
 ### ETC
-- [ ] Web&App 스트리밍 서비스 프로젝트 (discord clone) - Android, Spring & netty, vue.js
 - [ ] Xunit 제작 가이드
 - [x] CodeGenerater
     
