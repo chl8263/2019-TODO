@@ -1,5 +1,5 @@
 # 2019/04 ~ 2020/08 TODO
-> 차근차근 공부하기, 프로젝트 끝나고 구조및 설명 하나하나 잘 마무리...
+> 차근차근 공부하기, 프로젝트 끝나고 구조및 설명
 ## Category 
 
 * 해외인턴
@@ -8,6 +8,7 @@
 * front-And
 * Dev-ops
 * Network
+* OverRoll Project
 * ETC
 
 <hr/>
