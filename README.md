@@ -1,5 +1,5 @@
 # 2019/04 ~ 2020/08 TODO
-> 차근차근 공부하기, 프로젝트 끝나고 구조및 설명
+> 차근차근 공부하기, 프로젝트 끝나고 구조및 설명 게시
 ## Category 
 
 * 해외인턴
@@ -30,7 +30,6 @@
 
     <https://github.com/chl8263/MVVM_LiveData>
 
-- [ ] Coroutine
 
 - [x] Firebase 총 정리 및 koin, mvmm , core base mini project Demo App - instagram clone
 
