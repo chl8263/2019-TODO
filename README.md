@@ -78,7 +78,7 @@
 ---------- client ------------
 - [ ] Android
 - [ ] Web Front End
----------- server ------------<br>
+<br>---------- server ------------<br>
 - [ ] Admin
 - [ ] Service
 
