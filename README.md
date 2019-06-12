@@ -69,7 +69,6 @@
 ### Network
 - [ ] netty (가능한 kotlin으로 - 생산성 향상에 염두하면서)
 
-
 <hr/>
 
 ### Web&App 스트리밍 서비스 프로젝트 (discord clone)
