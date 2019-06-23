@@ -77,7 +77,7 @@
 - [ ] Web Front End <br>
 
 ---------- server ------------<br>
-- [ ] Admin
+- [ ] Admin (ERP)
 - [ ] Service
 
 
