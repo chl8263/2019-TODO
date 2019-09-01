@@ -87,8 +87,9 @@
 
 ### ETC
 
-- [ ] 디자인 패턴
-
+- [x] 디자인 패턴
+    
+    <https://github.com/chl8263/DesignPatterns>
 
 - [x] Xunit 제작 가이드
 
