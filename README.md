@@ -1,4 +1,4 @@
-# 2019/04 ~ 2020/08 TODO
+# 2019/04 ~ 2020/10 TODO
 > 차근차근 공부하기, 프로젝트 끝나고 구조및 설명 게시
 ## Category 
 
@@ -12,6 +12,8 @@
 * ETC
 
 <hr/>
+
+### 해외인턴 - Seattle univera IT Programming position 합격 (2019/10/21 ~ 2020/10/20)
 
 ### Android
 - [x] 모든 프로젝트 Architecture 는 MVVM - about DDD architecture
