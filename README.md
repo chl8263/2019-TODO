@@ -18,65 +18,52 @@
 ### Android
 - [x] [모든 프로젝트 Architecture 는 MVVM - about DDD architecture](https://github.com/chl8263/TDD-MVVM)
 
-    
-
 - [x] [LiveData](https://github.com/chl8263/MVVM_LiveData)
 
-    
+- [x] [Rective Programming](https://github.com/chl8263/GyunStagram)
 
-- [x] Rective Programming
+- [x] [DI - koin](https://github.com/chl8263/MVVM_LiveData)
 
-    <https://github.com/chl8263/GyunStagram>
+- [x] [Firebase 총 정리 및 koin, mvmm , core base mini project Demo App - instagram clone](https://github.com/chl8263/GyunStagram)
 
-- [x] DI - koin
+- [x] [CleanArchitecture](https://github.com/chl8263/Android_CleanArchitecture)
 
-    <https://github.com/chl8263/MVVM_LiveData>
-
-
-- [x] Firebase 총 정리 및 koin, mvmm , core base mini project Demo App - instagram clone
-
-    <https://github.com/chl8263/GyunStagram>
-
-- [x] CleanArchitecture
-
-    <https://github.com/chl8263/Android_CleanArchitecture>
-
-- [x] 앱 공모전
-
-    <https://github.com/chl8263/WithPet>
+- [x] [앱 공모전](ttps://github.com/chl8263/WithPet)
 
 <hr/>
 
 ### Back-And    
-- [ ] gitblit project (git server) - svn 서버를 대체하는 server(aws Test)
-- [ ] Rest
-- [ ] GraphQL
+- [ ] [gitblit project (git server) - svn 서버를 대체하는 server(aws Test)]
+- [ ] [Rest]
+- [ ] [GraphQL]
 
 <hr/>
 
 ### Front-end
-- [ ] vue.js example
-- [ ] ES6 input Validation Module 제작  (using Rxjs)
+- [ ] [vue.js example]
+- [ ] [ES6 input Validation Module 제작  (using Rxjs)]
 
 <hr/>
 
 ### Dev-ops
-- [ ] Docker
-- [ ] Kubernetes
-- [ ] AWS
-- [ ] jenkins
+- [ ] [Docker]
+- [ ] [Kubernetes]
+- [ ] [AWS]
+- [ ] [jenkins]
 
 <hr/>
 
 ### Network
-- [ ] netty (가능한 kotlin으로 - 생산성 향상에 염두하면서)
+- [ ] [netty (가능한 kotlin으로 - 생산성 향상에 염두하면서)]
 
 <hr/>
 
 ### Web&App 스트리밍 서비스 프로젝트 (discord clone)
 ---------- client ------------
-- [ ] Android
-- [ ] Web Front End <br>
+- [ ] [Android]
+- [ ] [Web Front End] 
+
+<br>
 
 ---------- server ------------<br>
 - [ ] Admin (ERP)
@@ -87,15 +74,8 @@
 
 ### ETC
 
-- [x] 디자인 패턴
-    
-    <https://github.com/chl8263/DesignPatterns>
+- [x] [Design Patterns](https://github.com/chl8263/DesignPatterns)
 
-- [x] Xunit 제작 가이드
+- [x] [Xunit 제작 가이드](https://github.com/chl8263/Xunit)
 
-   <https://github.com/chl8263/Xunit>
-   
-   
-- [x] CodeGenerater
-    
-   <https://github.com/chl8263/CodeGenerater>
+- [x] [CodeGenerater](https://github.com/chl8263/CodeGenerater)
