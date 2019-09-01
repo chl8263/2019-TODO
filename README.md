@@ -28,7 +28,7 @@
 
 - [x] [CleanArchitecture](https://github.com/chl8263/Android_CleanArchitecture)
 
-- [x] [앱 공모전](ttps://github.com/chl8263/WithPet)
+- [x] [앱 공모전](https://github.com/chl8263/WithPet)
 
 <hr/>
 
