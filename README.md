@@ -15,6 +15,8 @@
 
 ### 해외인턴 - Seattle univera IT Programming position 합격 (2019/10/21 ~ 2020/10/20)
 
+<hr/>
+
 ### Android
 - [x] [모든 프로젝트 Architecture 는 MVVM - about DDD architecture](https://github.com/chl8263/TDD-MVVM)
 
