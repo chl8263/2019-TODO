@@ -20,7 +20,7 @@
 
     
 
-- [x] [LiveData]<https://github.com/chl8263/MVVM_LiveData>
+- [x] [LiveData](https://github.com/chl8263/MVVM_LiveData)
 
     
 
