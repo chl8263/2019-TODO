@@ -60,19 +60,6 @@
 
 <hr/>
 
-### Web&App 스트리밍 서비스 프로젝트 (discord clone)
----------- client ------------
-- [ ] [Android]
-- [ ] [Web Front End] 
-
-<br>
-
----------- server ------------<br>
-- [ ] Admin (ERP)
-- [ ] Service
-
-<hr/>
-
 
 ### ETC
 
