@@ -2,7 +2,7 @@
 > 차근차근 공부하기, 프로젝트 끝나고 구조및 설명 게시
 ## Category 
 
-* 해외인턴
+* InternShip in SEATTLE
 * Android
 * Back-And
 * front-And
@@ -12,9 +12,9 @@
 
 <hr/>
 
-### 해외인턴 - Seattle univera IT NetWork Programming position  (2019/10/21 ~ 2020/10/20)
+### InternShip in SEATTLE - Seattle univera IT NetWork Programming position  (2019/10/21 ~ 2020/10/20)
 
-- [ ] [Join meetup]
+- [ ] [Join in programming meetup at Seattle]
 
 <hr/>
 
