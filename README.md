@@ -2,7 +2,7 @@
 > 차근차근 공부하기, 프로젝트 끝나고 구조및 설명 게시
 ## Category 
 
-* Internhip in SEATTLE
+* Internship in SEATTLE
 * Android
 * Back-And
 * front-And
