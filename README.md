@@ -35,8 +35,7 @@
 
 <hr/>
 
-### Back-And    
-- [ ] [gitblit project (git server) - svn 서버를 대체하는 server(aws Test)]
+### Back-And
 - [ ] [Rest]
 - [ ] [GraphQL]
 
@@ -49,6 +48,7 @@
 <hr/>
 
 ### Dev-ops
+- [ ] [gitblit project (git server) - svn 서버를 대체하는 server(aws Test)]
 - [ ] [Docker]
 - [ ] [Kubernetes]
 - [ ] [AWS]
