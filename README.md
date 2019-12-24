@@ -48,7 +48,7 @@ https://start.spring.io/
 ### Front-end
 - [ ] [vue.js example]
 - [ ] [ES6 input Validation Module 제작  (using Rxjs)]
-
+- [ ] [Functional programing]
 <hr/>
 
 ### Dev-ops
