@@ -1,7 +1,5 @@
 # 2019/04 ~ 2020/10 TODO
-> 차근차근 공부하기, 프로젝트 끝나고 구조및 설명 게시
 ## Category 
-
 
 * Internship in SEATTLE
 * Android
@@ -16,7 +14,7 @@
 
 ### InternShip in SEATTLE - Seattle univera IT NetWork Programming position  (2019/10/21 ~ 2020/10/20)
 
-- [ ] [Join in programming meetup at Seattle]
+- [x] [Join in programming meetup at Seattle]
 1. Seattle Js hacker
 
 <hr/>
