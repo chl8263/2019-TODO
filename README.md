@@ -63,7 +63,7 @@ https://start.spring.io/
 <hr/>
 
 ### SQL
-- [x] (https://chl8263.github.io/)
+- [x] [SQL Quiz](https://chl8263.github.io/)
 
 <hr/>
 
