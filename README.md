@@ -58,7 +58,7 @@ https://start.spring.io/
 <hr/>
 
 ### Network
-- [ ] [netty (가능한 kotlin으로 - 생산성 향상에 염두하면서)]
+- [ ] [netty]
 
 <hr/>
 
