@@ -20,7 +20,7 @@
 <hr/>
 
 ### Android
-- [x] [모든 프로젝트 Architecture 는 MVVM - about DDD architecture](https://github.com/chl8263/TDD-MVVM)
+- [x] [MVVM Architecture](https://github.com/chl8263/TDD-MVVM)
 
 - [x] [LiveData](https://github.com/chl8263/MVVM_LiveData)
 
