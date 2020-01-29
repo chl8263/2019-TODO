@@ -39,12 +39,12 @@
 ### Back-And
 - [ ] [Rest]
 - [ ] [GraphQL]
-- [ ] [Spring Boot with Redis, Rsocket using kotlin] 
-https://start.spring.io/
+- [ ] [Spring Boot with Redis, Rsocket using kotlin]
 <hr/>
 
 ### Front-end
-- [ ] [vue.js example]
+- [X] [vue.js example](https://github.com/chl8263/Vue-exe)
+- [X] [React.js example](https://github.com/chl8263/React-exe)
 - [ ] [ES6 input Validation Module 제작  (using Rxjs)]
 - [ ] [Functional programing]
 <hr/>
