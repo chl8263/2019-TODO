@@ -30,7 +30,7 @@
 
 - [x] [Firebase 총 정리 및 koin, mvmm , core base mini project Demo App - instagram clone](https://github.com/chl8263/GyunStagram)
 
-- [x] [CleanArchitecture](https://github.com/chl8263/Android_CleanArchitecture)
+- [x] [CleanArchitecture](https://github.com/chl8263/WithPet)
 
 - [x] [앱 공모전](https://github.com/chl8263/WithPet)
 
