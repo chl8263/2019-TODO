@@ -10,6 +10,7 @@
 * SQL
 * ETC
 
+
 <hr/>
 ### InternShip in SEATTLE - Seattle univera IT NetWork Programming position  (2019/10/21 ~ 2020/10/20)
 
