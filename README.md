@@ -38,8 +38,8 @@
 <hr/>
 
 ### Back-And
-- [ ] [Rest]
-- [ ] [Spring Boot with Redis, Rsocket using kotlin]
+- [X] [Rest]
+- [X] [Spring Boot with Redis, Rsocket using kotlin]
 <hr/>
 ### Front-end
 - [X] [vue.js example](https://github.com/chl8263/Vue-exe)
