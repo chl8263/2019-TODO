@@ -38,14 +38,14 @@
 <hr/>
 
 ### Back-And
-- [X] [Rest]
-- [X] [Spring Boot with Redis, Rsocket using kotlin]
+- [X] [Rest](https://github.com/chl8263/cellit-ApiServer)
+- [X] [Board ERP by Spring Boot with Redis based on kotlin language](https://github.com/chl8263/cellit-ApiServer)
 <hr/>
 ### Front-end
+- [X] [Client make by React](https://github.com/chl8263/cellit-Client)
 - [X] [vue.js example](https://github.com/chl8263/Vue-exe)
 - [X] [React.js example](https://github.com/chl8263/React-exe)
-- [ ] [ES6 input Validation Module 제작  (using Rxjs)]
-- [ ] [Functional programing]
+- [X] [Functional programing](https://github.com/chl8263/Functional-JS)
 <hr/>
 
 ### Dev-ops
