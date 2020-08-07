@@ -38,7 +38,7 @@
 <hr/>
 
 ### Back-And
-- [X] [Rest](https://github.com/chl8263/cellit-ApiServer)
+- [X] [Rest Api server](https://github.com/chl8263/cellit-ApiServer)
 - [X] [Board ERP by Spring Boot with Redis based on kotlin language](https://github.com/chl8263/cellit-ApiServer)
 <hr/>
 
